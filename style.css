@@ -14,7 +14,7 @@ body {
 
 .product {
   background-color: hsl(0, 0%, 100%);
-  max-width: 42%;
+  max-width: 43%;
   border-radius: 10px;
 }
 
@@ -45,7 +45,7 @@ img {
 }
 
 .category-heading {
-  font-size: 35px;
+  font-size: 30px;
   line-height: 1;
   font-family: "Fraunces", serif;
   padding-bottom: 24px;
